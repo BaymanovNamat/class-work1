@@ -1,0 +1,58 @@
+
+
+#example-1 {
+  color: red;
+  background-color: rgb(0, 60, 128);
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 100;
+}
+#example-2 {
+  background-color: mediumspringgreen;
+  font-family: "Verdana";
+  font-style: italic;
+  font-weight: 200;
+}
+#example-3 {
+  background-color: mediumorchid;
+  font-family: "Helvetica";
+  font-style: oblique;
+  font-weight: 300;
+}
+#example-4 {
+  background-color: maroon;
+  font-family: "Tahoma";
+  font-weight: 400;
+}
+#example-5 {
+  font-family: 'Roboto', sans-serif;
+  background-color: magenta;
+  font-weight: 500;
+}
+#example-6 {
+
+  background-color: lightskyblue;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+}
+#example-7 {
+  background-color: lightcoral;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+#example-8 {
+  background-color: lawngreen;
+  font-family: "Garamond";
+  font-weight: 800;
+}
+#example-9 {
+  background-color: rgb(65, 207, 77);
+  font-family: "Courier New";
+  font-weight: 900;
+}
+#example-10 {
+  background-color: rgb(99, 52, 133);
+  font-family: "Brush Script MT", serif;
+  font-weight: bold;
+}
