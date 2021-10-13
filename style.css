@@ -56,3 +56,14 @@
   font-family: "Brush Script MT", serif;
   font-weight: bold;
 }
+#nature-1 {
+  float: left;
+  margin: 10px 8px;
+  border: 3px dashed blue;
+  padding: 8px 5px;
+  background-color: green;
+}
+#nature-2 {
+  width: 50%;
+  float: right;
+}
